@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Kartgithub87/udaproject4-karthickk/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Kartgithub87/udaproject4-karthickk/tree/main)
 
 ## Project Overview
 
