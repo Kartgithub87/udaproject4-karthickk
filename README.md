@@ -49,9 +49,7 @@ source .devops/bin/activate
 
 * Setup and Configure Docker locally
 
-sudo yum update -y
-sudo yum install docker -y
-docker --version
+sudo yum update -y && yum install docker -y && docker --version
 
 * Setup and Configure Kubernetes locally
 
